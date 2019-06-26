@@ -1,0 +1,7 @@
+C:\Users\namht\source\repos\Quartz\Parallel\bin\Debug\Parallel.exe.config
+C:\Users\namht\source\repos\Quartz\Parallel\bin\Debug\Parallel.exe
+C:\Users\namht\source\repos\Quartz\Parallel\bin\Debug\Parallel.pdb
+C:\Users\namht\source\repos\Quartz\Parallel\obj\Debug\Parallel.csprojAssemblyReference.cache
+C:\Users\namht\source\repos\Quartz\Parallel\obj\Debug\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\namht\source\repos\Quartz\Parallel\obj\Debug\Parallel.exe
+C:\Users\namht\source\repos\Quartz\Parallel\obj\Debug\Parallel.pdb

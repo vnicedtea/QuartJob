@@ -1,0 +1,10 @@
+C:\Users\namht\source\repos\Quartz\Quartz\bin\Debug\Quartz.pdb
+C:\Users\namht\source\repos\Quartz\Quartz\bin\Debug\Quartz.dll
+C:\Users\namht\source\repos\Quartz\Quartz\bin\Debug\Quartz.xml
+C:\Users\namht\source\repos\Quartz\Quartz\obj\Debug\Quartz.csproj.CoreCompileInputs.cache
+C:\Users\namht\source\repos\Quartz\Quartz\obj\Debug\Quartz.csproj.CopyComplete
+C:\Users\namht\source\repos\Quartz\Quartz\bin\Debug\QuartzJob.dll.config
+C:\Users\namht\source\repos\Quartz\Quartz\bin\Debug\QuartzJob.dll
+C:\Users\namht\source\repos\Quartz\Quartz\bin\Debug\QuartzJob.pdb
+C:\Users\namht\source\repos\Quartz\Quartz\obj\Debug\QuartzJob.dll
+C:\Users\namht\source\repos\Quartz\Quartz\obj\Debug\QuartzJob.pdb
